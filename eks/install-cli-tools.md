@@ -29,6 +29,8 @@ helm - Kubernetes package manager
 ** Install Cli Tools **
 # Install eksctl
 curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
+
+command 2:
 sudo mv /tmp/eksctl /usr/local/bin
 
 # Verify eksctl
