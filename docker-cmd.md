@@ -1,4 +1,4 @@
-Instructions to Install Docker
+Instructions to Install and run Docker container
 
 1. Make the script executable
 ``` chmod +x script.sh```
